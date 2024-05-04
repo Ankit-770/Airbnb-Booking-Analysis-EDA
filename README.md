@@ -1,17 +1,17 @@
 # **Airbnb-bookings-analysis-EDA**
 
 
-![AirBnb](https://user-images.githubusercontent.com/121340232/215006504-cacfdcbc-d047-495b-ba2a-994753957ab8.jpg)
+![image](https://github.com/Ankit-770/Airbnb-Booking-Analysis-EDA/assets/90442965/c64acc46-2f32-4560-8f2c-57ad0bbaf100)
+
 
 
 # Table Of Contents
   
-  - [Introduction of Airbnb]
-  - [About the Dataset]
-  - [Python libraries used]
-  - [Project Work flow]
-  - [purpose of the analysis]
-  - [Certificate]
+  - [Introduction of Airbnb](https://github.com/Ankit-770/Airbnb-Booking-Analysis-EDA/blob/main/README.md#introduction-of-airbnb)
+  - [About the Dataset](https://github.com/Ankit-770/Airbnb-Booking-Analysis-EDA/blob/main/README.md#about-the-dataset--airbnb-bookings)
+  - [Python libraries used](https://github.com/Ankit-770/Airbnb-Booking-Analysis-EDA/blob/main/README.md#different-python-libraries-used-to-complete-this-eda)
+  - [Project Work flow](https://github.com/Ankit-770/Airbnb-Booking-Analysis-EDA/blob/main/README.md#project-work-flow)
+  - [purpose of the analysis](https://github.com/Ankit-770/Airbnb-Booking-Analysis-EDA/blob/main/README.md#the-purpose-of-the-analysis)
 
 
 
